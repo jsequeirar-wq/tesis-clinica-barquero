@@ -1,0 +1,14 @@
+# Temporary Word lock files
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary log and powershell artifacts
+*.tmp
+*.log
